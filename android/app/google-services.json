@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215553286098",
+    "firebase_url": "https://vipan-dial.firebaseio.com",
+    "project_id": "vipan-dial",
+    "storage_bucket": "vipan-dial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215553286098:android:3ba440de8652492abeb20b",
+        "android_client_info": {
+          "package_name": "com.example.vipan_dial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215553286098-se5atpsthunuobdhion3pinionl0jglh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vipan_dial",
+            "certificate_hash": "4eb5d1adc93ae6dcbfa77d68f69da03277d7e684"
+          }
+        },
+        {
+          "client_id": "215553286098-vn54bf89hsd8416asrpi7fraso12kflf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHnex4-sWPFeMzjcs4LahMqXTyFIBDcLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215553286098-vn54bf89hsd8416asrpi7fraso12kflf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
