@@ -1,4 +1,4 @@
-# vipan_dial
+# Vipan Dial
 
 A new Flutter project.
 
